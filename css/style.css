@@ -4,19 +4,36 @@
     box-sizing: border-box;
 
 }
-header{
-    background-color: orange;
+
+body {
+    background-color: rgb(230, 230, 230);
 }
-.main_container{
+
+header {
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.main_container {
     display: flex;
     justify-content: space-between;
-    align-content: flex-start;
+    align-content: center;
+    width: 70%;
+}
+
+.mt_20 {
+    margin-top: 20px;
 
 }
-div_foto{
+
+div_foto {
     display: flex;
 
 }
-mr_0{
+
+mr_0 {
     margin: 0px;
 }
