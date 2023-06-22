@@ -16,6 +16,10 @@ header {
 
 
 }
+.father_main{
+    width: 70%;
+    margin: auto;
+}
 .width{
     width: 70%;
 }
@@ -24,15 +28,16 @@ header {
     justify-content: space-between;
     align-content: center;
 }
-main{
-    justify-content: center;
-}
+
+
 .center_flex{
     display: flex;
     justify-content: center;
     align-self: center;
     flex-wrap: wrap;
 }
+
 .mt_20 {
     margin-top: 20px;
 }
+
