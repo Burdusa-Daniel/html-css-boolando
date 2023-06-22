@@ -45,6 +45,13 @@ header {
     justify-content: space-around;
     align-content: center;
 }
+.footer_container {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    padding-right: 200px;
+    padding-left: 200px;
+}
 
 .gap_f_10 {
     gap: 10px ;
